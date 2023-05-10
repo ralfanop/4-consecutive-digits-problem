@@ -17,7 +17,7 @@ R software version adopted:  3.6.3.nn.pkg
 
 Monte Carlo test seed:       89   [matches3R.txt](https://github.com/ralfanop/4-consecutive-digits-problem/files/11359338/matches3R.txt)
 
-Below, data sets of several Monte Carlo tests. From 10 000 000 up to 4 000 000 000 tests:
+Below, data sets of several Monte Carlo tests. From 10 000 000 up to 5 000 000 000 tests:
 
 [R Console(8,4,ss=TRUE,seed=89,4000000000).txt.zip](https://github.com/ralfanop/4-consecutive-digits-problem/files/11359358/R.Console.8.4.ss.TRUE.seed.89.4000000000.txt.zip)
 [R Console(8,4,ss=TRUE,seed=89,100000000).txt](https://github.com/ralfanop/4-consecutive-digits-problem/files/11359359/R.Console.8.4.ss.TRUE.seed.89.100000000.txt)
